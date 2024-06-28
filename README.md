@@ -1,10 +1,7 @@
 # ATS Resume Evaluator
 
 
-ATS Resume Evaluator
-
 The ATS Resume Evaluator is a web application designed to help job seekers improve their resumes by evaluating them against specific job descriptions. Leveraging AI-powered technology, this tool provides detailed feedback, including a match percentage, missing keywords, and a profile summary, to help users optimize their resumes for the competitive job market.
-
 
 
 Features
@@ -18,18 +15,17 @@ Job Description Input: Users can paste the job description they are targeting.
 -Detailed Feedback: The tool provides a detailed report including match percentage, missing keywords, and a profile summary.
 
 
-
 Installation
 
 Clone the repository:
 
-*git clone https://github.com/your-username/ats-resume-evaluator.git
+-git clone https://github.com/your-username/ats-resume-evaluator.git
 
-*cd ats-resume-evaluator
+-cd ats-resume-evaluator
 
 Install the required dependencies:
 
-*pip install -r requirements.txt
+-pip install -r requirements.txt
 
 Set up environment variables:
 
